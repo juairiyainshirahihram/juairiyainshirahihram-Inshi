@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **Python**
 
-- 😂 Func Fact **Python is named after a TV show.**
+- 😂 Fun Fact **Python is named after a TV show.**
 
 - 📫 How to reach me **juairiyainshirah@gmail.com**
 
